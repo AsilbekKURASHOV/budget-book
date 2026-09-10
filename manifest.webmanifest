@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Бюджетная Книжка",
+  "short_name": "Budget Book",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0C1119",
+  "theme_color": "#0C1119",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
